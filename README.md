@@ -7,12 +7,12 @@
 - **曲线时间轴**：年份、事件、品牌卡片沿上升曲线展开，镜头连续跟随并在结尾拉远。参考工程为 16 秒、1080p、30fps。
 - **数据增长**：红线绘制、同步数值、贴线跟随、柔和透视，随后拉远并平移至文字。参考工程为 15 秒、1080p、30fps。
 
-## 安装到 Codex
+## 安装 Skill
 
-将仓库克隆到自己的技能目录（目标目录应不存在）：
+将仓库克隆到所用智能体的技能目录（目标目录应不存在）。以下以 `~/.agents/skills` 为例，其他工具请调整安装目录：
 
 ```bash
-git clone https://github.com/alanxuyiyao-hash/remotion-curve-story.git ~/.codex/skills/remotion-curve-story
+git clone https://github.com/alanxuyiyao-hash/remotion-curve-story.git ~/.agents/skills/remotion-curve-story
 ```
 
 已有同名技能时请先比较内容，不要覆盖自定义修改。公开版使用系统字体回退，本机原版可能保留原样片的字体子集。

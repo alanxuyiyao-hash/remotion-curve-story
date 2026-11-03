@@ -16,9 +16,9 @@
 | `openclaw-logo.svg` | OpenClaw 官网：https://openclaw.ai/favicon.svg |
 | `openclaw-card.png` | OpenClaw 官网分享图：https://openclaw.ai/og-image.png |
 | `workbuddy-logo.svg` | 腾讯 WorkBuddy 官网 https://www.workbuddy.cn/ 的 favicon：https://assets.workbuddy.cn/web/workbuddy/a5b2fb510f0e7b156f19d072fae0cd12ae1f2f19/assets/logo.svg |
-| `codex-logo.svg` | LobeHub 开源图标库的 Codex 彩色图标：https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg |
+| `code-agent-logo.svg` | 本模板自行绘制的通用代码助手示意图标，不代表任何产品商标。 |
 
-Codex 图标来自开源图标库，其他上述素材来自对应品牌官网或静态资源站。没有用生成式图像重画这些 Logo。
+代码助手使用自行绘制的通用图标，其他上述品牌素材来自对应品牌官网或静态资源站。没有用生成式图像重画这些品牌 Logo。
 
 ## v2 新增的 Muse / Grok Bot 素材
 

@@ -275,7 +275,7 @@ const WorkBuddyArt = () => {
     </AbsoluteFill>
   );
 };
-const CodexArt = () => {
+const CodeWorkspaceArt = () => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   return (
@@ -324,7 +324,7 @@ const CodexArt = () => {
               marginLeft: 8,
             }}
           >
-            codex / workspace
+            agent / workspace
           </span>
         </div>
         <div
@@ -374,7 +374,7 @@ const CodexArt = () => {
         </div>
       </div>
       <Picture
-        src="codex-logo.svg"
+        src="code-agent-logo.svg"
         style={{
           position: "absolute",
           right: 28,
@@ -783,7 +783,7 @@ const Captions = () => {
       : t < 6.3
         ? "让个人助理，开始调用工具"
         : t < 9.3
-          ? "WorkBuddy / Codex：办公与代码协作"
+          ? "WorkBuddy / 代码助手：办公与代码协作"
           : t < 13.4
             ? "Muse / Grok Bot：个人 Agent"
             : "四个阶段，一条 Agent 时间线";
@@ -887,7 +887,7 @@ export const TimelineFilm = () => {
           </ProductCard>
         </Sequence>
         <Sequence
-          name="2026 · WorkBuddy / Codex"
+          name="2026 · WorkBuddy / 代码助手"
           from={6.3 * fps}
           layout="none"
         >
@@ -903,13 +903,13 @@ export const TimelineFilm = () => {
           </ProductCard>
           <ProductCard
             x={3480}
-            brand="OpenAI"
-            product="Codex"
+            brand="示例"
+            product="代码助手"
             stage="代码执行"
-            logo="codex-logo.svg"
+            logo="code-agent-logo.svg"
             enterDelay={0.16}
           >
-            <CodexArt />
+            <CodeWorkspaceArt />
           </ProductCard>
         </Sequence>
         <Sequence name="2026 · Grok Bot / Muse" from={9.3 * fps} layout="none">
