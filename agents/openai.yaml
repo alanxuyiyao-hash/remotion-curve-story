@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion 曲线时间轴与数据增长"
+  short_description: "复用曲线长镜头与柔和透视模板，制作时间轴、Star 增长和文字转场视频"
+  default_prompt: "使用 $remotion-curve-story，根据我的素材制作同款曲线时间轴或数据增长动画，并交付成片和可编辑工程。"

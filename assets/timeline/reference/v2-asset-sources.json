@@ -1,0 +1,13 @@
+{
+  "muse": {
+    "page": "https://ai.meta.com/muse/download/",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/dd/8e/eddd8e47-3746-3872-91e0-e009f15d1354/HatchAppIconPublic-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/us/app/muse-from-meta/id6760173601?uo=4",
+    "card": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.2365-6/795767136_1630478025086800_8969738526855678960_n.webp?_nc_cat=104&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=9R9dh8Fds9EQ7kNvwF5wcDr&_nc_oc=AdovOayj30zP_agrD0h1MiEnXy-_6-9NZHPsg8YOeJ3mv0MOririPYIZN0Hqop_X5b4&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=vFKgHdCeeDuSYL-TLOH96g&_nc_ss=7220f&oh=00_AQPur7Z9g_J-TZs9Q4RrYD1dyPAYR7qOCXiKseV-_kqgsw&oe=6AE6B0D3"
+  },
+  "grokbot": {
+    "page": "https://x.ai/news/introducing-grok-bot",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/46/d6/7646d666-4a32-77fc-62fc-db37eb78efe8/app-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+    "card": "https://x.ai/images/news/introducing-grok-bot-og-2.png"
+  }
+}
